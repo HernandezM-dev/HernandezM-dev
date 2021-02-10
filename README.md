@@ -12,12 +12,7 @@ I'm a frontend focused Fullstack developer powered by... <br />
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-⭐️ Current Status: Web Developer
-🌱 Currently Working on: No personal project at the moment
-💪 Currently Studying: Django and Svelte
-
-Here are some ideas to get you started:
-
+- ⭐️ Current Status: Web Developer<br />
 - 🔭 I’m currently working on Princeton Hawks Camp
 - 🌱 I’m currently learning python
 - 💬 Ask me about anything
