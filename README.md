@@ -1,6 +1,6 @@
 Hello! My name is Michael. 👋
 
-I'm a frontend focused Fullstack developer powered by... <br />
+I'm a Fullstack developer powered by... <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
