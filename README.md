@@ -11,7 +11,7 @@ I'm a Fullstack developer powered by... <br />
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Python]
+![Python](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 
 
 - ⭐️ Current Status: Web Developer<br />
