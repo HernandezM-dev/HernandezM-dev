@@ -13,8 +13,8 @@ I'm a Fullstack developer powered by... <br />
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 - ⭐️ Current Status: Web Developer<br />
-- 🔭 I’m currently working on Princeton Hawks Camp
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on Whos That Villager
+- 🌱 I’m currently learning Vue!
 - 💬 Ask me about anything
 - 📫 How to reach me: HernandezM.dev@gmail.com
 -->
