@@ -14,9 +14,9 @@ I'm a Fullstack developer powered by... <br />
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
 
 
-- ⭐️ Current Status: Web Developer<br />
-- 🔭 I’m currently working on Whos That Villager
-- 🌱 I’m currently learning Angular!
+- ⭐️ Current Status: Solutions Engineer<br />
+- 🔭 Currently working at Attentive Mobile Inc
+- 🌱 I’m currently learning Python!
 - 💬 Ask me about anything
 - 📫 How to reach me: HernandezM.dev@gmail.com
 -->
