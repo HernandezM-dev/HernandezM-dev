@@ -16,7 +16,7 @@ I'm a Fullstack developer powered by... <br />
 
 - ⭐️ Current Status: Solutions Engineer<br />
 - 🔭 Currently working at Attentive Mobile Inc
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Terraform!
 - 💬 Ask me about anything
 - 📫 How to reach me: HernandezM.dev@gmail.com
 -->
