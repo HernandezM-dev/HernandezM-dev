@@ -14,7 +14,7 @@ I'm a Fullstack developer powered by... <br />
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
 
 
-- ⭐️ Current Status: Solutions Engineer<br />
+- ⭐️ Current Status: Software Engineer<br />
 - 🔭 Currently working at Attentive Mobile Inc
 - 🌱 I’m currently learning Terraform!
 - 💬 Ask me about anything
